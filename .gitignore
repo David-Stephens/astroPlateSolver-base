@@ -1,0 +1,11 @@
+# OS files
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Temporary files
+*~
+
+# VSCODE
+.vscode
